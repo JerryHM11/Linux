@@ -234,10 +234,12 @@ for_window[class="netease-cloud-music"] floating enable border pixel 1
 for_window[class="variety"] floating enable border pixel 1
 for_window[class="腾讯视频"] floating enable border pixel 1
 for_window[class="tencentvideo"] floating enable border pixel 1
-for_window[class="LiteIDE"] floating enable border pixel 1
+#for_window[class="tencentvideo"] floating enable border pixel 1
+for_window[class="wechat"] floating enable border pixel 1
+#for_window[class="WeChat"] floating enable border pixel 1
 #for_window[class="variety"] floating enable
 #for_window[class="qqlinux"] floating enable
-#for_window[class=""] floatinf enable
+#for_window[class="qq"] floatinf enable
 
 # disable follows_mouse
 focus_follows_mouse no

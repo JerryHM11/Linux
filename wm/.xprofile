@@ -1,0 +1,10 @@
+export GTK_IM_MODULE=fcitx 
+export QT_IM_MODULE=fcitx 
+export XMODIFIERS=“@im=fcitx”
+
+export GOBOOT=/usr/lib/go
+export GOPATH=~/Documents/go
+export GOBIN=~/Documents/go/bin
+export GOSRC=~/Documents/go/src
+export GOPKG=~/Documents/go/pkg
+export PATH=$PATH:$GOROOT/bin:$GOBIN
